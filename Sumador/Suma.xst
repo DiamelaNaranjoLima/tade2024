@@ -1,0 +1,5 @@
+set -tmpdir "/home/ise/MV_TADE/Sumador/xst/projnav.tmp"
+set -xsthdpdir "/home/ise/MV_TADE/Sumador/xst"
+elaborate
+-ifn Suma.prj
+-ifmt mixed

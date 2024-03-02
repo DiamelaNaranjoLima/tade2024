@@ -1,0 +1,6 @@
+V3 3
+FL /home/ise/MV_TADE/Sumador/Suma.vhd 2024/02/27.05:15:40 P.20131013
+EN work/exSUM 1709010949 FL /home/ise/MV_TADE/Sumador/Suma.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/exSUM/archAnd 1709010950 \
+      FL /home/ise/MV_TADE/Sumador/Suma.vhd EN work/exSUM 1709010949

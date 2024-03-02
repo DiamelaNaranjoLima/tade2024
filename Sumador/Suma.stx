@@ -1,0 +1,41 @@
+Release 14.7 - xst P.20131013 (lin64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> 
+Parameter TMPDIR set to /home/ise/MV_TADE/Sumador/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.01 secs
+ 
+--> 
+Parameter xsthdpdir set to /home/ise/MV_TADE/Sumador/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.01 secs
+ 
+--> 
+WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "/home/ise/MV_TADE/Sumador/Suma.vhd" in Library work.
+Entity <exsum> compiled.
+ERROR:HDLParsers:3312 - "/home/ise/MV_TADE/Sumador/Suma.vhd" Line 42. Undefined symbol 's'.
+ERROR:HDLParsers:1209 - "/home/ise/MV_TADE/Sumador/Suma.vhd" Line 42. s: Undefined symbol (last report in this block)
+ERROR:HDLParsers:821 - "/home/ise/MV_TADE/Sumador/Suma.vhd" Line 43. Wrong index type for Cout.
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.01 secs
+ 
+--> 
+
+
+Total memory usage is 566680 kilobytes
+
+Number of errors   :    3 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

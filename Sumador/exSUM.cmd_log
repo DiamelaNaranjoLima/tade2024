@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/MV_TADE/Sumador/exSUM.xst" -ofn "/home/ise/MV_TADE/Sumador/exSUM.syr" 
